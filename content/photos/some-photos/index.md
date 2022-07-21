@@ -9,3 +9,5 @@ draft: false
 ---
 
 We're in Lyon!
+
+And testing a new blog.
